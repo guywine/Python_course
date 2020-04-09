@@ -1,3 +1,8 @@
-from test import test_this
+def print_name():
+    print('Guy Weintraub your function works')
 
-test_this()
+def print_date():
+    print('I think it is 9.4.20')
+
+def return_6():
+    return 6
