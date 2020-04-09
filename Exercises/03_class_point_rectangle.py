@@ -48,7 +48,7 @@ class Rectangle:
         Parameters
         ----------
         dwidth, dheight : float
-            Change the first and second axes by +dwidth\dheight
+            Change the first and second axes by +dwidth dheight
         """
         self.width += dwidth
         self.height += dheight
