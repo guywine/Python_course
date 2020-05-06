@@ -2,6 +2,10 @@ import numpy as np
 import pandas as pd 
 import matplotlib.pyplot as plt
 
+## df.where()
+## df.query()
+## df.read_from_clipboard()
+
 cars = {'Tel Aviv': 123,
         'Jerusalem': 115,
         'Haifa': 80,
